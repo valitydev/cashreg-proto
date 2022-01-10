@@ -1,5 +1,5 @@
 
-namespace java com.rbkmoney.damsel.cashreg.domain
+namespace java dev.vality.damsel.cashreg.domain
 namespace erlang cashreg_domain
 
 include "domain.thrift"

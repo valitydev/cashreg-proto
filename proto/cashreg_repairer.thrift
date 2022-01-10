@@ -1,5 +1,5 @@
 
-namespace java com.rbkmoney.damsel.cashreg.repairer
+namespace java dev.vality.damsel.cashreg.repairer
 namespace erlang cashreg_repairer
 
 include "base.thrift"

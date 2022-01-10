@@ -6,7 +6,7 @@
  */
 
 
-namespace java com.rbkmoney.damsel.cashreg.base
+namespace java dev.vality.damsel.cashreg.base
 namespace erlang cashreg_base
 
 /** Идентификатор объекта */

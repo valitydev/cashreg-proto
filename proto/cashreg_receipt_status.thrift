@@ -2,7 +2,7 @@
  * Статусы
  */
 
-namespace java com.rbkmoney.damsel.cashreg.receipt.status
+namespace java dev.vality.damsel.cashreg.receipt.status
 namespace erlang cashreg_receipt_status
 
 include "base.thrift"

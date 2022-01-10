@@ -1,5 +1,5 @@
 
-namespace java com.rbkmoney.damsel.cashreg.receipt.type
+namespace java dev.vality.damsel.cashreg.receipt.type
 namespace erlang cashreg_receipt_type
 
 
