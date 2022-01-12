@@ -20,8 +20,6 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <woody.version>1.0.0</woody.version>
-        <damsel.version>1.439-b18f037</damsel.version>
         <revision>SNAPSHOT</revision>
     </properties>
 
@@ -33,9 +31,9 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.rbkmoney</groupId>
+            <groupId>dev.vality</groupId>
             <artifactId>damsel</artifactId>
-            <version>${damsel.version}</version>
+            <version>1.538-5addc41</version>
         </dependency>
         <dependency>
             <groupId>javax.annotation</groupId>

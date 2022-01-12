@@ -16,7 +16,7 @@ Java development
 
 ```
 make wc_compile
-make wc_java_install LOCAL_BUILD=true SETTINGS_XML=path_to_rbk_maven_settings
+make wc_java_install LOCAL_BUILD=true SETTINGS_XML=path_to_vality_maven_settings
 ```
 
 Чтобы ипользовать несколько версий в проекте используйте `classifier:v${commit.number}`
