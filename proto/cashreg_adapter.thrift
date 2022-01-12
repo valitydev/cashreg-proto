@@ -5,7 +5,7 @@ include "cashreg_receipt.thrift"
 include "cashreg_receipt_type.thrift"
 
 
-namespace java com.rbkmoney.damsel.cashreg.adapter
+namespace java dev.vality.damsel.cashreg.adapter
 namespace erlang cashreg_adapter
 
 

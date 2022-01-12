@@ -1,5 +1,5 @@
 
-namespace java com.rbkmoney.damsel.cashreg.receipt
+namespace java dev.vality.damsel.cashreg.receipt
 namespace erlang cashreg_receipt
 
 include "base.thrift"

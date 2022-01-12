@@ -6,7 +6,7 @@
  */
 
 
-namespace java com.rbkmoney.damsel.cashreg.base
+namespace java dev.vality.damsel.cashreg.base
 namespace erlang cashreg_base
 
 /** Идентификатор объекта */
@@ -52,7 +52,6 @@ union Timer {
 /**
  * Ошибки
  *
- * Украдено из https://github.com/rbkmoney/damsel/blob/8235b6f6/proto/domain.thrift#L31
  */
 struct Failure {
     1: required FailureCode     code;
